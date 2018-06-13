@@ -1,9 +1,9 @@
 {
     "context": "client",
     "identifier": "com.pa.grandhomie.land_scout_combat_grouping_mod",
-    "display_name": "Land scout combat grouping mod",
+    "display_name": "Land scout combat grouping",
     "description": "Adds the land scout to the Select All Land Combat Units shortcut.  Useful to bring your Skitters with your army to detect mines!",
-    "author": "grandhomie",
+    "author": "Grand Homie",
     "version": "1.0.3",
     "build": "99377",
     "date": "2017-03-27",
@@ -20,10 +20,12 @@
         "mine",
         "mines",
         "select",
+        "grand",
+        "homie",
         "grandhomie"
     ],
     "authors": [
-        "grandhomie"
+        "Grand Homie"
     ],
     "dependencies": [],
     "companions": [],
