@@ -5,6 +5,10 @@
     "description": "Adds the land scout to the Select All Land Combat Units shortcut.  Useful to bring your Skitters with your army to detect mines!",
     "author": "Grand Homie",
     "version": "1.0.3",
+    "category": [
+        "titans",
+        "classic"
+    ],
     "build": "99377",
     "date": "2017-03-27",
     "signature": "not yet implemented",
