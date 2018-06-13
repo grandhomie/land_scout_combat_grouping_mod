@@ -10,16 +10,5 @@
     "signature": "not yet implemented",
     "forum": "https://forums.uberent.com/threads/wip-land-scout-skitter-selection-mod.72370/",
     "icon": "https://s22.postimg.org/scppjid41/land_scout.png",
-    "priority": 100,
-    "searchable": [
-        "land",
-        "scout",
-        "skitter",
-        "mine",
-        "mines",
-        "select",
-        "grand",
-        "homie",
-        "grandhomie"
-    ]
+    "priority": 100
 }
