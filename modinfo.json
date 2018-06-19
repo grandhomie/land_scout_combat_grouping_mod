@@ -4,7 +4,7 @@
     "display_name": "Land scout combat grouping",
     "description": "Adds the land scout to the Select All Land Combat Units shortcut.  Useful to bring your Skitters with your army to detect mines!",
     "author": "Grand Homie",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "category": [
         "titans",
         "classic"
@@ -14,5 +14,24 @@
     "signature": "not yet implemented",
     "forum": "https://forums.uberent.com/threads/wip-land-scout-skitter-selection-mod.72370/",
     "icon": "https://cdn.palobby.com/pa/units/land/land_scout/land_scout_icon_buildbar.png",
-    "priority": 100
+    "priority": 100,
+    "unitList": false,
+    "fileSystem": false,
+    "searchable": [
+        "land",
+        "scout",
+        "skitter",
+        "mine",
+        "mines",
+        "select"
+    ],
+    "dependencies": [],
+    "companions": [],
+    "scenes": {},
+    "framework": false,
+    "available": true,
+    "enabled": true,
+    "titansOnly": false,
+    "classicOnly": false,
+    "conflicts": {}
 }
